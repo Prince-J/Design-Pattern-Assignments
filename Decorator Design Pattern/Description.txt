@@ -1,0 +1,18 @@
+Implementing a receipt printing system using the 
+Decorator Design Pattern.
+
+The program prints out the base receipt and based on different
+factors, such as the current date or the items purchased, "decorations"
+such as a header, coupon, or rebate could be appended to the base receipt.
+
+Classes used to implement this design pattern:
+•BaseReceipt class
+•ReceiptFactory class
+•Decorator interface
+•Pre/PostDecorator class
+•StoreItem class
+•AddOn interface
+•Coupon class
+•SecondaryHeader class
+•Rebate class
+•Date class

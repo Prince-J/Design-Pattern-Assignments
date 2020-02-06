@@ -1,0 +1,20 @@
+Implemening an automated restaurant system using the 
+Command design pattern.
+
+Commands Implemented:
+• Display menu 
+• Submit Order 
+• Display tab
+
+Classes and Interfaces used to implement the Command design pattern: 
+• Text-based user interface 
+• SystemInterface class 
+• Invoker class 
+• Command interface 
+• Command classes (one for each command) 
+• Aggregator class 
+• Menu class 
+• MenuItem Class 
+• Orders class 
+• OrderItem Class 
+• Tab class
